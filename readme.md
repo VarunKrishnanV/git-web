@@ -1,4 +1,4 @@
-# Git and github with my team
+# Git with my team
 1. Varun
 2. Naveen
 3. Ram
